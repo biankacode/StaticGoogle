@@ -19,6 +19,8 @@ nav ul{
     border:1px dotted yellow ;
     display: flex;
     flex-direction: row;
+    justify-content: center;
+    align-items: center;
 }
 nav ul li{
     border:1px dotted pink ;
@@ -41,5 +43,5 @@ img{
     align-items: center;
 }
 body{
-    background-color: gray;
+    background-color: lightgrey;
 }
